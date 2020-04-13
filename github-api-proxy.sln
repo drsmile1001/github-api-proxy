@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "github-api-proxy", "github-api-proxy\github-api-proxy.csproj", "{984D4D9D-3750-49C9-90E5-CEB144775674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{984D4D9D-3750-49C9-90E5-CEB144775674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984D4D9D-3750-49C9-90E5-CEB144775674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984D4D9D-3750-49C9-90E5-CEB144775674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984D4D9D-3750-49C9-90E5-CEB144775674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3574DC7-708C-4492-94EC-746E4CCB78E7}
+	EndGlobalSection
+EndGlobal
